@@ -1,6 +1,11 @@
 # DecisionTreeClassifier
 
 
+CSV파일 링크
+------------
+https://www.dropbox.com/s/i8l7jgps1sfehe2/datamining2.csv?dl=0
+
+
 
 문제
 ------------
